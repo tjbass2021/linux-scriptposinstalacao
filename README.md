@@ -7,7 +7,7 @@ VLC, gerenciador de Torrent, Evince, etc. Pois são programas que utilizo
 com frequência em meu computador e sempre me são necessários.
 
 Por isso, o script serve para automatizar o meu processo de configuração 
-na depois de uma formatação que aconteceu por algum motivo. Eis a magia 
+depois de uma formatação que aconteceu por algum motivo. Eis a magia 
 do Linux, a liberdade para automatizar atividades um pouco massantes!
 
 ---
