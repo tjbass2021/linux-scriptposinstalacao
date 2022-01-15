@@ -16,9 +16,9 @@ do Linux, a liberdade para automatizar atividades um pouco massantes!
 
 **Vamo trocar ideia sobre programação!**
 
-GitHub: github.com/tjbass2021
-Instagram: https://www.instagram.com/thiago_okan/
-LinkedIn: https://www.linkedin.com/in/thiago-jonas-nascimento-de-souza-006874119/
+- GitHub: github.com/tjbass2021
+- Instagram: https://www.instagram.com/thiago_okan/
+- LinkedIn: https://www.linkedin.com/in/thiago-jonas-nascimento-de-souza-006874119/
 
 
 
