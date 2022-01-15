@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# após a atualização do sistema, segue a sequência de comandos para a 
+# instalação dos programas que utilizo sempre no meu computador.
+
+sudo apt install krita gimp vlc evince qbittorrent qcomicbook -y
+
+firefox --new-window https://brave.com/download/ & firefox --new-window https://code.visualstudio.com/Download
+
+# É isto. Depois vou incrementar esse script simples com os comandos 
+# para desisntalação de programas que não utilizo e que vem por padrão 
+# no Linux Mint.
+
+# github.com/tjbass2021
+
+
